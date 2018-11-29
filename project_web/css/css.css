@@ -1,0 +1,46 @@
+.head{
+    width: 100%;
+    background-color: #D8443C;
+    color: #FFFFFF;
+    font-size: 50px;
+    padding: 30px;
+    background-size: 100%;
+}
+
+.form{
+    text-align: right;
+    height: 100%;
+    background-image:url("6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #9dd2ea; 
+    text-align: center;
+    font-size: 40px;
+    padding: 100px auto;
+    width: 100%;
+}
+.form form select{
+    background-color:rgb(190, 166, 128);
+    font-size: 40px;
+    margin: 20px auto;
+    width: 200px;
+}
+.form form button{
+    background-color: rgb(245, 207, 157);
+    font-size: 40px;
+    margin: 20px auto;
+}
+
+.form table tr th{
+    font-size: 30px;
+}
+
+.body{
+    width: 100%;
+}
+
+.count{
+    background-color: aqua;
+    border: 5px solid aqua;
+}
+
